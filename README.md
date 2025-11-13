@@ -1,10 +1,10 @@
-# 🚀 IoT Monitoring System
+# 💫 IoT Monitoring Composter System
 
 This project is an **IoT-based monitoring system** built with **Quasar Framework (Frontend)** and **Node.js (Express) Backend**, using **MySQL** as the database and **RabbitMQ** as the message broker.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 project-root/
@@ -22,7 +22,7 @@ project-root/
 
 ---
 
-## ⚙️ System Requirements
+## System Requirements
 
 - **Linux (Ubuntu/Debian recommended)**
 - **Node.js** v18+
@@ -33,17 +33,16 @@ project-root/
 
 ---
 
-## 🧩 Project Installation
+## Project Installation
 
-### 1. Clone the Repository
+1. Clone the Repository
 ```bash
 git clone https://github.com/username/project-name.git
 cd project-name
 ```
 
 ---
-
-## 🖥️ Backend Setup (Node.js + Express)
+2. Backend Setup (Node.js + Express)
 
 Go to the backend folder:
 ```bash
@@ -109,7 +108,7 @@ The frontend app will run at:
 
 ---
 
-## 🐬 Install MySQL on Linux
+## Install MySQL on Linux
 
 ### 1. Install MySQL
 ```bash
@@ -212,3 +211,4 @@ sudo systemctl restart rabbitmq-server
 
 ## ✨ Contributors
 - **Notter Romantsa** — Research & Development
+  MAN 2 Kota Malang
