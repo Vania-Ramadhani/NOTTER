@@ -35,14 +35,14 @@ project-root/
 
 ## Project Installation
 
-1. Clone the Repository
+###1. Clone the Repository
 ```bash
 git clone https://github.com/username/project-name.git
 cd project-name
 ```
 
 ---
-2. Backend Setup (Node.js + Express)
+###2. Backend Setup (Node.js + Express)
 
 Go to the backend folder:
 ```bash
