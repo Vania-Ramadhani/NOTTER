@@ -211,4 +211,5 @@ sudo systemctl restart rabbitmq-server
 
 
 ## ✨ Contributors
-- **Notter Romantsa** — Research & Development
+- **Romantsa** — Research & Development
+  MAN 2 Kota Malang
